@@ -1,0 +1,5 @@
+Lab assignemnt for CS 4480: Computer Networks. The lab assignments for this class included topics such as creating a HTTP web server and SSL-based communication, however there is primarily one lab assignment that I felt was related.
+
+This lab, contained in StudentNetworkSimulator.java, was related to our studies of reliable data transfer protocols used in the UNIX kernel. While this assignment was done in Java, the basic framework was a simulation of the UDP network traffic. The assignment was to implement various protocls on top of it, such as Alternating-Bit-Protocol. This built up to the final submission, included in this repo, of an implementation of the Go-Back-N protocol.
+
+Note that I have only included the file that I modified. There was additional framework for the assignment to simulate network traffic that I have not included.
